@@ -7,6 +7,17 @@ public class chen_test {
         System.out.println("Hi Chen ^_^  love");
         System.out.println("Hi Chen ^_^  love");
         System.out.println("Hi Chen ^_^  love");
+        System.out.println("Hi Chen ^_^  love");
+        System.out.println("小狼睡不醒");
+        System.out.println("小狼睡不醒");
+        System.out.println("小狼睡不醒");
+        System.out.println("小狼睡不醒");
+        System.out.println("小狼睡不醒");
+        System.out.println("Hi Chen ^_^  love");
+        System.out.println("Hi Chen ^_^  love");
+        System.out.println("Hi Chen ^_^  love");
+        System.out.println("Hi Chen ^_^  love");
+        System.out.println("Hi Chen ^_^  love");
         System.out.println("小狼睡不醒");
     }
 
