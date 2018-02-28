@@ -3,20 +3,7 @@
  */
 public class chen_test {
     public static void main(String args[]){
-        System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");  System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");
-        System.out.println("Hi Chen ^_^  love");
+
         System.out.println("小狼睡不醒");
         System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");  System.out.println("小狼睡不醒");
         System.out.println("小狼睡不醒");
